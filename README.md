@@ -4,7 +4,7 @@
 2. 使用sass编译css
 3. 熟悉动画的各个属性，transform，transition，animation
 4. 通过写好的动画类，然后通过js添加类名给需要的dom动画。
-## (demo测试链接)[
+## [demo测试链接](http://saiblog.top/Dragon-boat-festival/dist/index.html)
 ## webpack
 现在webpack还需要安装webpack-cli，一开始看的是旧教程，不过发布的时候，webpack有提示要安装，一般认真看还是知道的。后来我是通过webpack中文网来学习的。
 1. npm init -y 初始化你的项目
